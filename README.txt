@@ -1,3 +1,12 @@
+README.md
+
+shopii is a website used to organise shopping lists and add budgets to your account. Lists such as shopping, wish list, etc. can be added and budgets for shopping and spending along with percentage of income can be added. The website calculates the time needed to save up enough money and how much should be budgeted for each buy. 
+
+Welcome to shopii!
+
+
+README FROM THEME
+
 Spectral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
